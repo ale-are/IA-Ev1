@@ -12,7 +12,7 @@
   Correo: correo2@universidad.cl
 
 - Cristobal Bravo 
-  Correo: correo2@universidad.cl
+  Correo: cristobal.bravo2201@alumnos.ubiobio.cl
 
 
 ## Descripción de la evaluación
