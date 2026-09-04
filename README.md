@@ -11,7 +11,7 @@
 - Alonso Barra  
   Correo: correo2@universidad.cl
 
-- Cristobal Bravo 
+- Cristobal Bravo   
   Correo: cristobal.bravo2201@alumnos.ubiobio.cl
 
 
