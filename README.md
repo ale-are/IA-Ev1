@@ -6,7 +6,7 @@
   Correo: alexis.arevalo2301@alumnos.ubiobio.cl
 
 - Gabriel Ascencio    
-  Correo: correo2@universidad.cl
+  Correo: gabriel.ascencio2301@alumnos.ubiobio.cl
 
 - Alonso Barra    
   Correo: alonso.barra2301@alumnos.ubiobio.cl
