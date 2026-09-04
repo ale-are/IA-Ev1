@@ -2,13 +2,13 @@
 
 ## Integrantes
 
-- Alexis Arévalo 
+- Alexis Arévalo   
   Correo: alexis.arevalo2301@alumnos.ubiobio.cl
 
-- Gabriel Ascencio  
+- Gabriel Ascencio    
   Correo: correo2@universidad.cl
 
-- Alonso Barra  
+- Alonso Barra    
   Correo: correo2@universidad.cl
 
 - Cristobal Bravo   
